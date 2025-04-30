@@ -23,14 +23,10 @@
 Ich bin ein leidenschaftlicher **DevOps & Cloud Engineer** mit Expertise in **Infrastrukturautomatisierung, Containerisierung und Cloud-Technologien**. Ich liebe es, **effiziente Systeme aufzubauen, CI/CD-Pipelines zu implementieren und komplexe technische Herausforderungen** mit skalierbaren Lösungen zu meistern.
 
 ## 📈 GitHub Statistiken <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alper-kagan&theme=tokyonight&locale=de" alt="GitHub Streak Statistiken" /> 
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alper-kagan&show_icons=true&theme=transparent&border_color=ffffff&locale=de) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alper-kagan&langs_count=10&theme=transparent&border_color=ffffff&locale=de)](https://github.com/alper-kagan/github-readme-stats) |
+|--------------|--------------|
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alper-kagan&langs_count=6&theme=tokyonight&layout=compact&locale=de" alt="Top Sprachen" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alper-kagan&theme=tokyonight&row=1&column=6&locale=de" alt="Trophäen" />
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=alper-kagan&theme=transparent&locale=de)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🛠️ Technologien & Tools
 
