@@ -9,7 +9,6 @@
 
 - 🚀 DevOps & Cloud Engineer specializing in **infrastructure automation and containerization**
 - 🔭 Working on **cloud-native applications** with AWS and Azure infrastructure
-- 💼 Former **Product Design Manager** at Ginyard International Co.
 - 🌱 Continuously exploring the intersection of **design thinking and DevOps methodologies**
 - 📫 How to reach me: **alper333@web.de**
 
