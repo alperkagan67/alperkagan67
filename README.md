@@ -1,38 +1,38 @@
 <h1 align="center">
- Moin, I'm Alper! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+ Moin, ich bin Alper! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1> 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alper-kagan&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=alper-kagan&color=blue" alt="Profilaufrufe" />
 </p>
 
-## 🌟 About Me
+## 🌟 Über mich
 
-- 🚀 DevOps & Cloud Engineer specializing in **infrastructure automation and containerization**
-- 🔭 Working on **cloud-native applications** with AWS and Azure infrastructure
-- 💼 Former **Product Design Manager** at Ginyard International Co.
-- 🌱 Continuously exploring the intersection of **design thinking and DevOps methodologies**
+- 🚀 DevOps & Cloud Engineer mit Schwerpunkt auf **Infrastrukturautomatisierung und Containerisierung**
+- 🔭 Arbeite an **Cloud-nativen Anwendungen** mit AWS- und Azure-Infrastruktur
+- 💼 Ehemaliger **Product Design Manager** bei Ginyard International Co.
+- 🌱 Kontinuierliche Erforschung der Schnittstelle zwischen **Design Thinking und DevOps-Methoden**
 - 🔹 Leidenschaft für **Infrastructure as Code (IaC), CI/CD und Cloud-Technologien**
 - 🔹 Erfahrung mit **Kubernetes, Docker, Terraform und Ansible**
 - 🔹 Fokus auf **Automatisierung und Monitoring mit Grafana, Prometheus und ELK**
-- 📫 How to reach me: **alper333@web.de**
+- 📫 Kontakt: **alper333@web.de**
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&height=100&lines=Hallo+ich+bin+Alper;DevOps+Engineer;Cloud+Automation;Infrastructure+as+Code" alt="Typing SVG" />
 </p>
 
-I'm a passionate **DevOps & Cloud Engineer** with expertise in **infrastructure automation, containerization, and cloud technologies**. I love **building efficient systems, implementing CI/CD pipelines, and solving complex technical challenges** with scalable solutions.
+Ich bin ein leidenschaftlicher **DevOps & Cloud Engineer** mit Expertise in **Infrastrukturautomatisierung, Containerisierung und Cloud-Technologien**. Ich liebe es, **effiziente Systeme aufzubauen, CI/CD-Pipelines zu implementieren und komplexe technische Herausforderungen** mit skalierbaren Lösungen zu meistern.
 
-## 📈 GitHub Stats <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alper-kagan&theme=tokyonight" alt="GitHub Streak Stats" /> 
+## 📈 GitHub Statistiken <p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=alper-kagan&theme=tokyonight&locale=de" alt="GitHub Streak Statistiken" /> 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alper-kagan&langs_count=6&theme=tokyonight&layout=compact" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alper-kagan&langs_count=6&theme=tokyonight&layout=compact&locale=de" alt="Top Sprachen" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alper-kagan&theme=tokyonight&row=1&column=6" alt="trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=alper-kagan&theme=tokyonight&row=1&column=6&locale=de" alt="Trophäen" />
 </p>
 
-## 🛠️ Technologies & Tools
+## 🛠️ Technologien & Tools
 
 <table>
   <tr>
@@ -43,7 +43,7 @@ I'm a passionate **DevOps & Cloud Engineer** with expertise in **infrastructure 
       <img src="https://img.shields.io/badge/-Backend-3C873A?style=for-the-badge" alt="Backend" />
     </td>
     <td align="center" width="96">
-      <img src="https://img.shields.io/badge/-Databases-4479A1?style=for-the-badge" alt="Databases" />
+      <img src="https://img.shields.io/badge/-Datenbanken-4479A1?style=for-the-badge" alt="Datenbanken" />
     </td>
     <td align="center" width="96">
       <img src="https://img.shields.io/badge/-Cloud%20%26%20DevOps-232F3E?style=for-the-badge" alt="Cloud & DevOps" />
@@ -55,10 +55,10 @@ I'm a passionate **DevOps & Cloud Engineer** with expertise in **infrastructure 
       <img src="https://img.shields.io/badge/-Tools-4B32C3?style=for-the-badge" alt="Tools" />
     </td>
     <td align="center" width="96">
-      <img src="https://img.shields.io/badge/-Operating%20Systems-0078D6?style=for-the-badge" alt="Operating Systems" />
+      <img src="https://img.shields.io/badge/-Betriebssysteme-0078D6?style=for-the-badge" alt="Betriebssysteme" />
     </td>
     <td align="center" width="96">
-      <img src="https://img.shields.io/badge/-Networking%20%26%20Security-840010?style=for-the-badge" alt="Networking & Security" />
+      <img src="https://img.shields.io/badge/-Netzwerk%20%26%20Sicherheit-840010?style=for-the-badge" alt="Netzwerk & Sicherheit" />
     </td>
   </tr>
   <tr>
@@ -144,18 +144,18 @@ I'm a passionate **DevOps & Cloud Engineer** with expertise in **infrastructure 
   </tr>
 </table>
 
-## 🚀 My Projects
+## 🚀 Meine Projekte
 
 <div align="center">
   <a href="https://github.com/alper-kagan/aws-terraform-infrastructure">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alper-kagan&repo=aws-terraform-infrastructure&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alper-kagan&repo=aws-terraform-infrastructure&theme=tokyonight&locale=de" />
   </a>
   <a href="https://github.com/alper-kagan/kubernetes-monitoring-stack">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alper-kagan&repo=kubernetes-monitoring-stack&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alper-kagan&repo=kubernetes-monitoring-stack&theme=tokyonight&locale=de" />
   </a>
 </div>
 
-## 🌐 Connect with Me
+## 🌐 Kontakt
 
 <div align="center">
   <a href="https://www.linkedin.com/in/alperkagan/">
@@ -167,5 +167,5 @@ I'm a passionate **DevOps & Cloud Engineer** with expertise in **infrastructure 
 </div>
 
 <div align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with love" />
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Mit Liebe gebaut" />
 </div>
