@@ -20,8 +20,10 @@
 I'm a passionate **DevOps & Cloud Engineer** with expertise in **infrastructure automation, containerization, and cloud technologies**. I love **building efficient systems, implementing CI/CD pipelines, and solving complex technical challenges** with scalable solutions.
 
 ## 📈 GitHub Stats <p align="center">
-| <img src="https://github-readme-streak-stats.herokuapp.com/?user=alper-kagan&theme=tokyonight" alt="GitHub Streak Stats" /> | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alper-kagan&langs_count=10&theme=tokyonight&layout=compact)](https://github.com/alper-kagan/github-readme-stats) |
-|--------------|--------------|
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=alper-kagan&theme=tokyonight" alt="GitHub Streak Stats" /> 
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alper-kagan&langs_count=6&theme=tokyonight&layout=compact" alt="Top Languages" />
+</p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=alper-kagan&theme=tokyonight&row=1&column=6" alt="trophy" />
@@ -50,10 +52,10 @@ I'm a passionate **DevOps & Cloud Engineer** with expertise in **infrastructure 
 ## 🌐 Connect with Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/alper-kagan">
+  <a href="https://www.linkedin.com/in/alperkagan/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/alper_kagan">
+  <a href="https://x.com/alperkagan1453">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </div>
@@ -61,8 +63,3 @@ I'm a passionate **DevOps & Cloud Engineer** with expertise in **infrastructure 
 <div align="center">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with love" />
 </div>
-
-<!-- GitHub Activity Graph -->
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=alper-kagan&theme=tokyo-night" alt="Contribution Graph" />
-</p>
