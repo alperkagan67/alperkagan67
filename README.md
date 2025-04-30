@@ -115,33 +115,6 @@ Ich bin ein leidenschaftlicher **DevOps & Cloud Engineer** mit Expertise in **In
       <img src="https://img.shields.io/badge/-Cybersecurity-00A98F?style=flat" />
     </td>
   </tr>
-  <tr>
-    <td>---</td>
-    <td>---</td>
-    <td>---</td>
-    <td>---</td>
-    <td>---</td>
-    <td>---</td>
-    <td>---</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-Nextcloud-0082C9?style=flat&logo=nextcloud&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/-IT%20Security-840010?style=flat" /><br/>
-      <img src="https://img.shields.io/badge/-Cybersecurity-00A98F?style=flat" />
-    </td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
 </table>
 
 ## 🚀 Meine Projekte
