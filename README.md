@@ -9,11 +9,15 @@
 
 - 🚀 DevOps & Cloud Engineer specializing in **infrastructure automation and containerization**
 - 🔭 Working on **cloud-native applications** with AWS and Azure infrastructure
+- 💼 Former **Product Design Manager** at Ginyard International Co.
 - 🌱 Continuously exploring the intersection of **design thinking and DevOps methodologies**
+- 🔹 Leidenschaft für **Infrastructure as Code (IaC), CI/CD und Cloud-Technologien**
+- 🔹 Erfahrung mit **Kubernetes, Docker, Terraform und Ansible**
+- 🔹 Fokus auf **Automatisierung und Monitoring mit Grafana, Prometheus und ELK**
 - 📫 How to reach me: **alper333@web.de**
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9BF7&width=435&lines=DevOps+%26+Cloud+Engineer;Infrastructure+Automation+Expert;Containerization+Specialist;CI%2FCD+Pipeline+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&height=100&lines=Hallo+ich+bin+Alper;DevOps+Engineer;Cloud+Automation;Infrastructure+as+Code" alt="Typing SVG" />
 </p>
 
 I'm a passionate **DevOps & Cloud Engineer** with expertise in **infrastructure automation, containerization, and cloud technologies**. I love **building efficient systems, implementing CI/CD pipelines, and solving complex technical challenges** with scalable solutions.
