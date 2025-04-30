@@ -9,7 +9,6 @@
 
 - 🚀 DevOps & Cloud Engineer mit Schwerpunkt auf **Infrastrukturautomatisierung und Containerisierung**
 - 🔭 Arbeite an **Cloud-nativen Anwendungen** mit AWS- und Azure-Infrastruktur
-- 💼 Ehemaliger **Product Design Manager** bei Ginyard International Co.
 - 🌱 Kontinuierliche Erforschung der Schnittstelle zwischen **Design Thinking und DevOps-Methoden**
 - 🔹 Leidenschaft für **Infrastructure as Code (IaC), CI/CD und Cloud-Technologien**
 - 🔹 Erfahrung mit **Kubernetes, Docker, Terraform und Ansible**
